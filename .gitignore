@@ -1,0 +1,12 @@
+/.DS_Store
+/.project
+/package-lock.json
+/node_modules
+/public/stylesheets/.DS_Stor
+/views/.DS_Store
+/public/.DS_Store
+/public/fonts/.DS_Store
+/public/images/.DS_Store
+/public/javascripts/.DS_Store
+manifest.yml
+node_modules
